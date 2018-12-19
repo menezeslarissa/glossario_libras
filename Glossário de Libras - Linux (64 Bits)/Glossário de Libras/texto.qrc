@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>text-field-form.png</file>
+  </qresource>
+</RCC>
