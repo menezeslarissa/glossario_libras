@@ -12,6 +12,8 @@
 <ul class="list-group list-group-flush">
   <li class="list-group-item"><a href="https://github.com/menezeslarissa/glossario_libras/blob/master/Gloss%C3%A1rio%20de%20Libras%20-%20Linux%20(64%20Bits).zip">Source code - Linux</a></li>
   <li class="list-group-item"><a href="https://github.com/menezeslarissa/glossario_libras/blob/master/Gloss%C3%A1rio%20de%20Libras%20-%20Windows%20%20(32%20-%2064%20Bits).zip">Source code - Windows</a></li>
+   <li class="list-group-item"><a href=" https://github.com/menezeslarissa/glossario_libras/blob/master/librasbd.sql"> Dump do banco</a></li>
+ 
  
 </ul>
-<ul>
+
